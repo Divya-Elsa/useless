@@ -1,33 +1,33 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Roode.ai] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Error404]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Hridya] - [TKMCE]
+- Member 2: [Divya] - [TKMCE]
+- Member 3: [Sriniketh] - [TKMCE]
 
 ### Project Description
-[2-3 lines about what your project does]
+[a rude chatbot that roast users]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[there are real life people who chorial us why not a software for the same]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[by building a chatbot]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML,CSS,JavaScript]
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- [VSCode,Claude]
 
 For Hardware:
 - [List main components]
@@ -46,14 +46,17 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
+![Screenshot 2024-10-26 080620](https://github.com/user-attachments/assets/096f020b-4567-4b15-b9a0-227d5b358a07)
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
+![Screenshot 2024-10-26 080608](https://github.com/user-attachments/assets/262b6ab7-317e-4059-9f90-fd9ccd6917bd)
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
+![Screenshot 2024-10-26 080557](https://github.com/user-attachments/assets/3e52a006-0112-487c-9ab0-6956f82344a7)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
